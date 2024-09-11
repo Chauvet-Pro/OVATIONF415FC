@@ -1,10 +1,14 @@
 # Ovation F-415FC
 
+### ***Please use UPLOAD 03 to update the Ovation F-415FC software, or to fix partial or total firmware failure.***
+&nbsp;
+
 ## Software Versions
 
-[V1.0.0 - Ovation F-415FC-2](https://github.com/Chauvet-Pro/OVATIONF415FC/blob/a4ae4a3f8525795a326cc18aa91ee11861a66dbe/firmware/V1.0.0.zip)
-- For Ovation F-415FC-2: Updated software version number
-- Also backwards compatible with the older version of Ovation F-415FC
+[V2.3.0 - Ovation F-415FC](https://github.com/Chauvet-Pro/OVATIONF415FC/blob/4dec536b851ef1c458d84de02b2fe45db471d2e7/firmware/V2.3.0.zip)
+- ***NOTE: This software update is for the -2 version of the fixture, but is also backwards compatible and can be used with the original version.***
+- Updated to expand UID range for "-2" fixtures
+- Converted software file name to new version numbering scheme
 
 [V2.230617 - Ovation F-415FC](https://github.com/Chauvet-Pro/OVATIONF415FC/blob/a4ae4a3f8525795a326cc18aa91ee11861a66dbe/firmware/V2.230617.zip)
 - Added power management improvements
